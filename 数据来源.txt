@@ -1,0 +1,56 @@
+这里是竞赛数据集来源
+https://www.physionet.org/content/challenge-2017/1.0.0/
+这里可以看论文和代码
+https://www.physionet.org/about/challenge/moody-challenge
+
+
+
+
+第一个报告，画图具体是些上面我也不太清楚
+好像是用例图，用例描述，类图，之类的
+第二个是源代码的粘贴，前端代码，与后端代码分为两个模块
+第三个就是运行结果把
+
+
+生成对抗网络-图像生成
+https://blog.csdn.net/m0_52000372/article/details/126075691
+https://github.com/zghhui/GAN
+
+
+tensorboard --logdir="C:\Users\Administered\Desktop\大三下\机器学习\期末项目代码\runs"
+
+tensorboard --logdir="C:\Users\Administered\Desktop\大三下\人工智能陈尧\期末项目\runs"
+tensorboard --logdir="C:\Users\Administered\Desktop\大三下\人工智能陈尧\期末项目\runs1"
+
+
+neural_style.py --content /C:/Users/Administered/Desktop/证件照.jpg --style /D:\编程\项目3\风格迁移\examples\outputs\golden_gate_escher.png
+
+C:/Users/Administered/Desktop
+
+
+neural_style.py --content /C:/Users/Administered/Desktop/证件照.jpg --style /D:/编程/项目3/风格迁移/examples/outputs/golden_gate_escher.png
+
+C:/Users/Administered/Desktop/证件照.jpg
+D:/编程/项目3/风格迁移/examples/outputs/golden_gate_escher.png
+D:/编程/项目3/风格迁移/examples/inputs/picasso_selfport1907.jpg
+
+
+neural_style.py --content /D:/编程/项目3/风格迁移/examples/inputs/picasso_selfport1907.jpg --style /C:/Users/Administered/Desktop/证件照.jpg
+
+
+
+
+
+
+python neural_style.py -style_image /examples/inputs/1.jpg -content_image /examples/inputs/2.jpg
+
+python neural_style.py -style_image D:\编程\项目3\风格迁移\examples\inputs\1.jpg -content_image D:\编程\项目3\风格迁移\examples\inputs\2.jpg
+
+
+
+http://127.0.0.1:5000/
+
+
+
+
+
